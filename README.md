@@ -1,6 +1,6 @@
 # HT-Lab
 
-VERSION CONTROL WITH GIT
+Version Control with GIT
 
 - add
 - commit
