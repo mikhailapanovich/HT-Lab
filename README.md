@@ -1,6 +1,6 @@
 # HT-Lab
 
-VERSION CONTROL WITH GIT
+VERSION CONTROL WITH GIT v.develop
 
 - add
 - commit
